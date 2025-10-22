@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/luminastudy/logos&images/Banner_logo.png" alt="Lumina Study Banner" width="100%">
+  <img src="/logos&images/Banner_logo.png" alt="Lumina Study Banner" width="100%">
 </p>
 
 
