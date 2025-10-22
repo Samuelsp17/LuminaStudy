@@ -35,5 +35,29 @@ O projeto está sendo desenvolvido com:
 ##  Colaboração
 
 Este projeto está sendo desenvolvido por:
+<a href="https://github.com/samuelsp17">
+  <img src="https://avatars.githubusercontent.com/u/167661096?s=48&v=4" width="50px" />
+</a>
+<a href="https://github.com/beavonn">
+  <img src="https://avatars.githubusercontent.com/u/231726007?s=64&v=4" width="50px" />
+</a>
+<a href="https://github.com/Gabrielestudar">
+  <img src="https://avatars.githubusercontent.com/u/100160708?s=64&v=4" width="50px" />
+</a>
+<a href="https://github.com/HNR-G">
+    <img src="https://avatars.githubusercontent.com/u/174018895?s=64&v=4" width="50px" />
+</a>
+<a href="https://github.com/LAOUSSS">
+    <img src="https://avatars.githubusercontent.com/u/187822975?s=64&v=4" width="50px" />
+</a>
+<a href="https://github.com/pacotrolll">
+    <img src="https://avatars.githubusercontent.com/u/203702315?s=64&v=4" width="50px" />
+</a>
+<a href="https://github.com/Art-Fernandes">
+  <img src="https://avatars.githubusercontent.com/u/62701606?s64&v=4" width="50px" />
+</a>
+
+
+
 
 dedicados a criar uma experiência completa de aprendizado digital.
