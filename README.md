@@ -35,6 +35,7 @@ O projeto está sendo desenvolvido com:
 ##  Colaboração
 
 Este projeto está sendo desenvolvido por:
+<br>
 <a href="https://github.com/samuelsp17">
   <img src="https://avatars.githubusercontent.com/u/167661096?s=48&v=4" width="50px" />
 </a>
