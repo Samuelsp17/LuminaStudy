@@ -42,7 +42,7 @@ Este projeto está sendo desenvolvido por:
 <a href="https://github.com/beavonn">
   <img src="https://avatars.githubusercontent.com/u/231726007?s=64&v=4" width="50px" />
 </a>
-<a href="https://github.com/Gabrielestudar">
+<a href="https://github.com/Gabriel-Lopes-de-Souza">
   <img src="https://avatars.githubusercontent.com/u/100160708?s=64&v=4" width="50px" />
 </a>
 <a href="https://github.com/HNR-G">
