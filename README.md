@@ -16,8 +16,7 @@
 *Lumina Study* é uma plataforma de estudos projetada para ajudar estudantes a organizarem e potencializarem o aprendizado.  
 Ela reúne diversas ferramentas integradas em um único ambiente intuitivo e bonito.
 
- *Principais recursos:*
--  Sistema de *flashcards* para memorização ativa  
+ *Principais recursos:* 
 -  *Timer* para aplicar técnicas de foco, como o método Pomodoro  
 -  *Sistema de anotações* integrado  
 -  *Planejador inteligente* — combinando planner e quadro de horários
@@ -57,7 +56,9 @@ Este projeto está sendo desenvolvido por:
 <a href="https://github.com/Art-Fernandes">
   <img src="https://avatars.githubusercontent.com/u/62701606?s64&v=4" width="50px" />
 </a>
-
+<a href="https://github.com/Mtz777666">
+  <img src="https://avatars.githubusercontent.com/u/193431000?s64&v=4" width="50px" /> 
+</a>
 
 
 
